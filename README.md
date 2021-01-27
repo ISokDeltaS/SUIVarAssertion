@@ -1,0 +1,2 @@
+# SUIVarAssertion
+How var behaives?
